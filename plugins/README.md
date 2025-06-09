@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO MUQEET-MD-V1 PLUGINS LIST CREATED BY MUQEET 7***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
