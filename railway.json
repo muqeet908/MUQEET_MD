@@ -1,0 +1,16 @@
+{
+  "name": "MUQEET-MD",
+  "description": "For deploying MUQEET-MD.",
+  "repository": "https://github.com/muqeet908/MUQEET_MD",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
